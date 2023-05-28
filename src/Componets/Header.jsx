@@ -1,4 +1,3 @@
-import CartWidget from "./CartWidget";
 import NavBar from "./NavBar";
 
 const Header = () =>{
@@ -11,10 +10,6 @@ const Header = () =>{
                 <div className="col-md-6">
                     <NavBar />
                     
-                </div>
-                <div className="col-md-6">
-                    <CartWidget />
-
                 </div>
             </div>
             
